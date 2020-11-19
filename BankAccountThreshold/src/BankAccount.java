@@ -46,6 +46,10 @@ public class BankAccount {
 		   
 	   }
 	   
+	   public double getIntPct() {
+		   return interestPct;
+	   }
+	   
 	   public double getBalance()
 	   {
 	      return balance;
